@@ -1,4 +1,4 @@
-## String formatting
+# # String formatting
 
 # You can add strings together to concatenate them (join them together).
 

@@ -13,7 +13,7 @@ your_name = input("Enter your name: ")
 
 print(f"Hello {your_name}. My name is {my_name}.")
 
-## Calculating months
+# # Calculating months
 
 age = input("Enter your age: ")  # Enter 3
 print(
