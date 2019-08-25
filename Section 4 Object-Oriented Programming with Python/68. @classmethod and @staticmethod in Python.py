@@ -14,6 +14,7 @@ class Student:
     def average(self):
         return sum(self.marks) / len(self.marks)
 
+
 """
 When we create a new object from the `Student` class and we call a method, 
 we are automagically passing in the `self` parameter:
